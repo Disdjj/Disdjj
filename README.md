@@ -4,11 +4,9 @@
 
 ### About Me
 
-- 🚀 Founder & Core Contributor at **[@TokenRollAI](https://github.com/TokenRollAI)**
-- 🔭 Currently building AI-powered developer tools at a startup
-- 🤖 Focused on **AI Programming**, **LLM** and **MCP Protocol**
-- 🎣 Fishing enthusiast — _the art of patience and waiting_
-- 📝 Blog: [blog.pdjjq.org](https://blog.pdjjq.org)
+- Founder & Core Contributor at **[@TokenRollAI](https://github.com/TokenRollAI)**
+- Focused on **AI Programming**, **LLM** and **MCP Protocol**
+- Fishing enthusiast — _the art of patience and waiting_
 
 ### Featured Projects
 
