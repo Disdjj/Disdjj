@@ -2,9 +2,7 @@
 
 > Department of Joke Justice
 
-### About Me
-
-- Founder & Core Contributor at **[@TokenRollAI](https://github.com/TokenRollAI)**
+- Founder of **[@TokenRollAI](https://github.com/TokenRollAI)**
 - Focused on **AI Programming**, **LLM** and **MCP Protocol**
 - Fishing enthusiast — _the art of patience and waiting_
 
